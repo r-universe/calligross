@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ggThemeAssist",
+    "oncran": true
+  },
+  {
+    "package": "reinstallr",
+    "oncran": true
+  }
+]

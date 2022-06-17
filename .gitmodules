@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ggThemeAssist"]
+	path = ggThemeAssist
+	url = https://github.com/calligross/ggthemeassist
+	shallow = true
+	registered = true
+[submodule "reinstallr"]
+	path = reinstallr
+	url = https://github.com/calligross/reinstallr
+	shallow = true
+	registered = true
